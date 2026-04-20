@@ -42,6 +42,18 @@ The project covered:
 - Team collaboration
 - Business report writing
 
+### Outdoor Brand Positioning Comparison
+![Outdoor Brand Positioning Comparison](./assets/rei-australia/outdoor-brand-positioning-comparison.png)
+
+### Australian Outdoor Market Growth Forecast
+![Australian Outdoor Market Growth Forecast](./assets/rei-australia/australian-outdoor-market-growth-forecast.png)
+
+### Australian Outdoor Retail Market Share
+![Australian Outdoor Retail Market Share](./assets/rei-australia/australian-outdoor-retail-market-share.png)
+
+### REI Australia Income Projection (2024–2025)
+![REI Australia Income Projection](./assets/rei-australia/rei-australia-income-projection-2024-2025.png)
+
 ## Key Takeaways
 
 This project strengthened my ability to evaluate a new international market and connect market research with practical business recommendations. It also involved balancing strategic branding decisions with pricing, distribution, and financial feasibility.
