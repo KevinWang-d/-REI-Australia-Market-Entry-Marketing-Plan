@@ -43,7 +43,7 @@ The project covered:
 - Business report writing
 
 ### Outdoor Brand Positioning Comparison
-![Outdoor Brand Positioning Comparison](./assets/REI/outdoor-brand-positioning-comparison.png)
+![Outdoor Brand Positioning Comparison][(./assets/REI/outdoor-brand-positioning-comparison.png)](https://github.com/KevinWang-d/-REI-Australia-Market-Entry-Marketing-Plan/blob/main/REI/Outdoor%20Brand%20Positioning%20Comparison.png)
 
 ### Australian Outdoor Market Growth Forecast
 ![Australian Outdoor Market Growth Forecast](./assets/REI/australian-outdoor-market-growth-forecast.png)
