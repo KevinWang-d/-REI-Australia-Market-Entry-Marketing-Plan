@@ -47,13 +47,13 @@ The project covered:
 ![Outdoor Brand Positioning Comparison](./REI/Outdoor%20Brand%20Positioning%20Comparison.png)
 
 ### Australian Outdoor Market Growth Forecast
-![Australian Outdoor Market Growth Forecast](./assets/REI/australian-outdoor-market-growth-forecast.png)
+![Australian Outdoor Market Growth Forecast](./REI/Australian%20Outdoor%20Market%20Growth%20Forecast.png
 
 ### Australian Outdoor Retail Market Share
-![Australian Outdoor Retail Market Share](./assets/REI/australian-outdoor-retail-market-share.png)
+![Australian Outdoor Retail Market Share](./REI/Australian%20Outdoor%20Retail%20Market%20Share.png
 
 ### REI Australia Income Projection (2024–2025)
-![REI Australia Income Projection](./assets/REI/rei-australia-income-projection-2024-2025.png)
+![REI Australia Income Projection](./REI/REI%20Australia%20Income%20Projection%20(2024–2025).png
 
 ## Key Takeaways
 
